@@ -1,4 +1,4 @@
-# Hi 👋, I'm Vikas Singh
+# Hi , I'm Vikas Singh
 
 💻 *Frontend Developer | Problem Solver | Tech Enthusiast*  
 🚀 Passionate about building interactive UIs and solving coding challenges.
