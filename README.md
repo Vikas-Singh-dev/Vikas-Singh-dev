@@ -40,7 +40,7 @@
 - 🌍 Portfolio: coming soon...  
 - 💼 [LinkedIn](https://www.linkedin.com/in/vikas-singh07) 
 - 🐙 [GitHub](https://github.com/Vikas-Singh-dev)  
-- 📝 [LeetCode](https://leetcode.com/Vikas_Singh_07/)  
+- 📝 [LeetCode](https://leetcode.com/u/Vikas-Singh-dev/) 
 - 📧 Email: vikassingh2757@gmail.com  
 
 ✨ Always eager to learn, build, and contribute!
