@@ -8,7 +8,7 @@
 ## 🔹 About Me  
 - 🎓 B.Tech (IT) Student @ JSS Academy of Technical Education  
 - 💡 Interests: Web Development, Problem Solving, Data Structures & Algorithms  
-- 🧑‍💻 Solved *100+ problems* on [LeetCode](https://leetcode.com/Vikas_Singh_07/)  
+- 🧑‍💻 Solved *180+ problems* on [LeetCode](https://leetcode.com/Vikas_Singh_07/)  
 - 🌱 Currently learning *React.js* and *API Integration*  
 
 ---
